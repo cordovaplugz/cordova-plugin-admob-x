@@ -1,4 +1,4 @@
-## Cordova AdMob Plugin
+## Cordova Google AdMob Plugin
 
 - Add the plugin
 ```bash
