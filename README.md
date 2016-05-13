@@ -170,7 +170,7 @@ function showInterstitialFunc(){
 	Android support repository, Google play services, Google repository.
 
 ## CAUTION
-- Do not click your own ads or google could cancel all your accounts. They have automatic systems checking for this. For testing use the  'isTesting: true' javascript variable in the code below.
+- Do not click your own ads or google could cancel your accounts. They have automatic systems checking for this. For testing use the  'isTesting: true' javascript variable in the code below.
 
 - Do not make apps that allow people to download youtube movies, this is against their terms of service also. They will find out.
 
