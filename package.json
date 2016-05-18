@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-admob-x",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Powerful, stable and easy to use. Open source Cordova Admob plugin for Android, iOS and Windows phone. Uses the latest SDKs. Display interstitials and banners on your apps.",
   "cordova": {
     "id": "cordova-plugin-admob-x",
